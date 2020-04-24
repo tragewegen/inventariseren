@@ -1137,17 +1137,17 @@ section.lazy-placeholder:after {
   padding-bottom: 120px;
   background-image: url("../../../assets/images/pvdh-20180514-013dscf3217.jpg");
 }
-.cid-rUNpOA8nt8 {
-  padding-top: 45px;
-  padding-bottom: 15px;
+.cid-rX3ESBTt0e {
+  padding-top: 90px;
+  padding-bottom: 30px;
   background-color: #ffffff;
 }
-.cid-rUNpOA8nt8 .mbr-section-subtitle {
+.cid-rX3ESBTt0e .mbr-section-subtitle {
   color: #767676;
   text-align: center;
   font-weight: 300;
 }
-.cid-rUNpOA8nt8 .step {
+.cid-rX3ESBTt0e .step {
   width: 64px;
   height: 64px;
   font-size: 32px;
@@ -1155,16 +1155,16 @@ section.lazy-placeholder:after {
   border: 2px solid #8981d3;
 }
 @media (max-width: 767px) {
-  .cid-rUNpOA8nt8 .step {
+  .cid-rX3ESBTt0e .step {
     width: 48px;
     height: 48px;
     font-size: 24px;
   }
 }
-.cid-rUNpOA8nt8 .separline {
+.cid-rX3ESBTt0e .separline {
   position: relative;
 }
-.cid-rUNpOA8nt8 .separline:after {
+.cid-rX3ESBTt0e .separline:after {
   top: 68px;
   left: 30px;
   position: absolute;
@@ -1174,7 +1174,7 @@ section.lazy-placeholder:after {
   background-color: #8981d3;
 }
 @media (max-width: 767px) {
-  .cid-rUNpOA8nt8 .separline:after {
+  .cid-rX3ESBTt0e .separline:after {
     top: 52px;
     left: 22px;
     height: calc(100% - 56px);

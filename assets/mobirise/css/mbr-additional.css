@@ -1697,6 +1697,20 @@ section.lazy-placeholder:after {
     height: calc(100% - 56px);
   }
 }
+.cid-sgir2d06f8 {
+  background: #ffffff;
+  padding-top: 0px;
+  padding-bottom: 45px;
+  background: linear-gradient(0deg, #ffffff, #ffffff);
+}
+.cid-sgir2d06f8 .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-sgir2d06f8 .video-block {
+    width: 100% !important;
+  }
+}
 .cid-rQdXCKAkHv {
   padding-top: 45px;
   padding-bottom: 0px;
